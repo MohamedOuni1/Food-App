@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">App</string>
+    <string-array name="type_tacos">
+        <item>Chawarma  </item>
+        <item>Escalope Gillé </item>
+        <item>Escalope Pannée </item>
+        <item>Crispy </item>
+        <item>Cordon Bleu </item>
+        <item>Viande Hachée </item>
+    </string-array>
+
+    <string-array name="type_lieu">
+        <item>Akouda</item>
+        <item>Bouficha</item>
+        <item>Enfidha</item>
+        <item>Hamem Sousse</item>
+        <item>Hergla</item>
+        <item>Kalaa Kebira</item>
+        <item>Kalaa Sghira</item>
+        <item>Kondar</item>
+        <item>Msaken</item>
+        <item>Sidi Bouali</item>
+        <item>Sidi el Hani</item>
+        <item>Sousse jawahra</item>
+        <item>Sousse Medina</item>
+        <item>Sousse Riadh</item>
+
+
+
+
+    </string-array>
+
+
+</resources>
